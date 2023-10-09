@@ -1,6 +1,4 @@
-# Project Link
 
- [Click Here--->](https://parth-tagadpallear-weather.netlify.app/).
 
 # Getting Started with Create React App
 
