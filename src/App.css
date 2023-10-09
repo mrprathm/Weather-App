@@ -1,0 +1,59 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+
+body {
+  background-image: url("back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+}
+
+
+
+.todo-app {
+    
+      
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  width: 520px;
+  min-height: 500px;
+  background: linear-gradient(
+    77deg,
+    rgb(58, 75, 80) 0%,
+    rgb(95, 103, 175) 100%
+  );
+  text-align: center;
+  margin: 128px auto;
+  border-radius: 10px;
+  padding-bottom: 32px;
+  
+}
+
+.todo-input {
+  color: black;
+  padding: 6px;
+  background-color: lightgray;
+ 
+}
+
+.todo-button {
+  padding: 7px;
+  border: none;
+  border-radius: 0 1px 1px 0;
+  cursor: pointer;
+  outline: none;
+  background: linear-gradient(
+    90deg,
+    rgba(93, 12, 255, 1) 0%,
+    rgba(155, 0, 250, 1) 100%
+  );
+  color: #fff;
+  text-transform: capitalize;
+}
